@@ -2,7 +2,7 @@
 计数器组件
 
 引入
-import inputnum from './assets/inputNum/inputNum.js'
+import inputnum from './inputNum.js'
 Vue.use(inputnum)
 
 使用
